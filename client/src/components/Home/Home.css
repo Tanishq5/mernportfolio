@@ -64,12 +64,23 @@
     top: 50%;
     transform: translate(-50%, -50%);
 }
+.homeresume > a {
+    background-color: white;
+    transition: all 0.5s;
+    color: rgb(0, 0, 0);
+    font: 700 1rem "Ubuntu Mono", "Roboto";
+    text-decoration: none;
+    padding: 2vmax 6vmax;
+    box-sizing: border-box;
+    border: 1px solid white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
 .homeCanvasContainer > a:hover {
     color: rgb(255, 255, 255);
     background-color: rgba(0, 0, 0, 0);
-}
-.resume{
-    margin-bottom: 30px;
 }
 
 .homeScrollBtn {
