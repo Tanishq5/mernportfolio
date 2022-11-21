@@ -64,6 +64,9 @@
     top: 50%;
     transform: translate(-50%, -50%);
 }
+.homeresume {
+    margin-bottom: 50px;
+}
 .homeresume > a {
     background-color: white;
     transition: all 0.5s;
