@@ -78,10 +78,14 @@
     border: 1px solid white;
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 30%;
     transform: translate(-50%, -50%);
 }
 .homeCanvasContainer > a:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0);
+}
+.homeresume > a:hover {
     color: rgb(255, 255, 255);
     background-color: rgba(0, 0, 0, 0);
 }
