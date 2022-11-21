@@ -55,6 +55,7 @@
     transition: all 0.5s;
     color: rgb(0, 0, 0);
     font: 700 1rem "Ubuntu Mono", "Roboto";
+    margin-bottom: 10%;
     text-decoration: none;
     padding: 2vmax 6vmax;
     box-sizing: border-box;
