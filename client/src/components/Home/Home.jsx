@@ -131,7 +131,9 @@ function Home({ timelines, youtubes, skills }) {
                 <div className="homeCanvasBox">
                     <Typography variant="h2">DEVELOPER</Typography>
                 </div>
-                <a className="resume" href="https://drive.google.com/file/d/1T4yguDSA0CSl3qcIgHFRdUF7XwnmqRE3/view?usp=share_link" target="_blank">Resume</a>
+                <div>
+                    <a className="resume" href="https://drive.google.com/file/d/1T4yguDSA0CSl3qcIgHFRdUF7XwnmqRE3/view?usp=share_link" target="_blank">Resume</a>
+                </div>
                 <Link to="/projects">VIEW WORK</Link>
             </div>
 
